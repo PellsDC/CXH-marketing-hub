@@ -138,7 +138,7 @@
           <div class="col-md-4 mb-4">
             <div class="card h-100">
               <img
-                src="https://github.com/PellsDC/Creativex-hub-website/blob/main/IMG_1747.jpeg?raw=true"
+                src="https://github.com/PellsDC/Creativex-hub-website/blob/main/IMG_1002.JPG?raw=true"
                 alt="Tuttify"
                 class="card-img-top"
               />
