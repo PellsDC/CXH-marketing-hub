@@ -149,6 +149,71 @@
               </div>
             </div>
           </div>
+          <!-- Pricing Section -->
+<section id="pricing" class="py-5">
+  <div class="container">
+    <h2 class="text-center mb-4">Our Pricing Plans</h2>
+    <p class="text-center mb-5">Affordable plans tailored to your business needs.</p>
+    <div class="row">
+      <!-- Basic Plan -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 text-center">
+          <div class="card-header bg-primary text-white">
+            <h3>Basic Plan</h3>
+          </div>
+          <div class="card-body">
+            <h4 class="card-title">$199/month</h4>
+            <ul class="list-unstyled">
+              <li>Social Media Management</li>
+              <li>10 Posts/Month</li>
+              <li>Basic Analytics</li>
+              <li>Email Support</li>
+            </ul>
+            <a href="#contact" class="btn btn-primary">Get Started</a>
+          </div>
+        </div>
+      </div>
+      <!-- Pro Plan -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 text-center">
+          <div class="card-header bg-success text-white">
+            <h3>Pro Plan</h3>
+          </div>
+          <div class="card-body">
+            <h4 class="card-title">$499/month</h4>
+            <ul class="list-unstyled">
+              <li>Social Media Management</li>
+              <li>20 Posts/Month</li>
+              <li>Advanced Analytics</li>
+              <li>Content Creation</li>
+              <li>Priority Support</li>
+            </ul>
+            <a href="#contact" class="btn btn-success">Get Started</a>
+          </div>
+        </div>
+      </div>
+      <!-- Premium Plan -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 text-center">
+          <div class="card-header bg-warning text-white">
+            <h3>Premium Plan</h3>
+          </div>
+          <div class="card-body">
+            <h4 class="card-title">$999/month</h4>
+            <ul class="list-unstyled">
+              <li>Full Marketing Strategy</li>
+              <li>Unlimited Posts</li>
+              <li>SEO Optimization</li>
+              <li>Dedicated Account Manager</li>
+              <li>24/7 Support</li>
+            </ul>
+            <a href="#contact" class="btn btn-warning">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
           <!-- Facebook Video Project -->
           <div class="col-md-4 mb-4">
             <div class="card h-100">
@@ -166,6 +231,46 @@
           </div>
         </div>
         <div class="row">
+          <!-- Consultation Form -->
+<section id="consultation" class="py-5 bg-light">
+  <div class="container">
+    <h2 class="text-center mb-4">Request a Free Consultation</h2>
+    <p class="text-center mb-5">Let’s discuss how we can help your business grow.</p>
+    <form class="row g-3">
+      <div class="col-md-6">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name" placeholder="Your Name" required>
+      </div>
+      <div class="col-md-6">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" placeholder="Your Email" required>
+      </div>
+      <div class="col-md-6">
+        <label for="phone" class="form-label">Phone</label>
+        <input type="tel" class="form-control" id="phone" placeholder="Your Phone Number">
+      </div>
+      <div class="col-md-6">
+        <label for="service" class="form-label">Service of Interest</label>
+        <select class="form-select" id="service" required>
+          <option value="">Choose a Service</option>
+          <option value="social-media">Social Media Marketing</option>
+          <option value="content-creation">Content Creation</option>
+          <option value="seo">SEO Optimization</option>
+          <option value="email-marketing">Email Marketing</option>
+          <option value="branding">Branding</option>
+          <option value="analytics">Analytics & Reporting</option>
+        </select>
+      </div>
+      <div class="col-12">
+        <label for="message" class="form-label">Message</label>
+        <textarea class="form-control" id="message" rows="5" placeholder="Your Message" required></textarea>
+      </div>
+      <div class="col-12 text-center">
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+    </form>
+  </div>
+</section>
           <!-- Upwork Profile -->
           <div class="col-md-6 mb-4">
             <div class="card h-100">
@@ -182,6 +287,39 @@
               </div>
             </div>
           </div>
+          <!-- Testimonials Section -->
+<section id="testimonials" class="py-5">
+  <div class="container">
+    <h2 class="text-center mb-4">What Our Clients Say</h2>
+    <p class="text-center mb-5">Hear from our satisfied clients.</p>
+    <div class="row">
+      <!-- Testimonial 1 -->
+      <div class="col-md-6 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <p class="card-text">
+              "Creativex_hub transformed our social media presence! Their strategies are innovative and effective. Highly
+              recommended!"
+            </p>
+            <h5 class="card-title">— Anthony Robinson</h5>
+          </div>
+        </div>
+      </div>
+      <!-- Testimonial 2 -->
+      <div class="col-md-6 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <p class="card-text">
+              "The team at Creativex_hub is amazing. They delivered results beyond our expectations. Great communication
+              and professionalism!"
+            </p>
+            <h5 class="card-title">— Coy</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
           <!-- Instagram Profile -->
           <div class="col-md-6 mb-4">
             <div class="card h-100">
