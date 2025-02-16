@@ -247,7 +247,7 @@
       </div>
       <div class="col-md-6">
         <label for="phone" class="form-label">Phone</label>
-        <input type="tel" class="form-control" id="phone" placeholder="Your Phone Number">
+        <input type="tel" class="form-control" id="phone" placeholder="+2348035832615">
       </div>
       <div class="col-md-6">
         <label for="service" class="form-label">Service of Interest</label>
@@ -341,6 +341,5 @@
       <p>Follow us on <a href="https://instagram.com/Creativex_hub" target="_blank" class="text-white">Instagram</a></p>
     </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  </body>
-</html>
+
+
